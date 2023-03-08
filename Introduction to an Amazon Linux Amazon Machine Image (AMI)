@@ -1,0 +1,21 @@
+#Objectives
+##After completing this lab, you will be able to:
+
+###Use SSH to access an Amazon Linux AMI within Vocareum labs
+###Understand the purpose of the man command
+###Demonstrate the search feature of the man pages
+###Examine man page headers
+
+At the top of these instructions, choose Start Lab to launch your lab.
+A Start Lab panel opens, and it displays the lab status.
+
+Tip: If you need more time to complete the lab, choose the Start Lab button again to restart the timer for the environment.
+
+Wait until you see the message Lab status: ready, then close the Start Lab panel by choosing the X.
+
+At the top of these instructions, choose AWS.
+This opens the AWS Management Console in a new browser tab. The system will automatically log you in.
+
+Tip: If a new browser tab does not open, a banner or icon is usually at the top of your browser with a message that your browser is preventing the site from opening pop-up windows. Choose the banner or icon and then choose Allow pop ups.
+
+Arrange the AWS Management Console tab so that it displays along side these instructions. Ideally, you will be able to see both browser tabs at the same time so that you can follow the lab steps more easily.
